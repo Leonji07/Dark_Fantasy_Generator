@@ -1,0 +1,6 @@
+artstation:
+  search_url: "https://www.artstation.com/search?sort_by=relevance&query=Berserk"
+  image_selector: "img" 
+  max_images: 100                               
+  scroll_pause: 2                               
+  output_dir: "datasets/raw/artstation"        
